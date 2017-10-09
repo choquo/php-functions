@@ -1,6 +1,6 @@
 # php-functions
 
-A personal compilation of general purpouse functions to speed up PHP projects
+A personal compilation of general purpose functions to speed up PHP projects
 
 ### Note: 
 
